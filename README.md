@@ -6,3 +6,5 @@ In this project, street by street land fair prices in several districts of Istan
 ![Result 1](/images/result1.png)
 ![Query 2](/images/query2.png)
 ![Result 2](/images/result2.png)
+
+![Result File](/images/result_file.png)
