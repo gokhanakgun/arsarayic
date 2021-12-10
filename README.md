@@ -13,3 +13,7 @@ Result Pages of the Queries:
 The Result File for Beyoglu District in csv format:
 
 ![Result File](/images/result_file.png)
+
+## Requirements
+
+This project requires selenium package and web driver in order to automate web navigation and pandas package in order to keep the result in a table and export to csv or xlsx file. 
