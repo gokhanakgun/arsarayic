@@ -11,4 +11,5 @@ Result Pages of the Queries:
 ![Result 2](/images/result2.png)
 
 The Result File for Beyoglu District:
+
 ![Result File](/images/result_file.png)
