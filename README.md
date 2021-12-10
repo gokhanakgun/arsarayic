@@ -16,4 +16,4 @@ The Result File for Beyoglu District in csv format:
 
 ## Requirements
 
-This project requires [selenium](https://pypi.org/project/selenium/) package and web driver in order to automate web navigation and pandas package in order to keep the result in a table and export to csv or xlsx file. 
+This project requires [selenium](https://pypi.org/project/selenium/) package and [web driver](https://chromedriver.chromium.org/downloads) in order to automate web navigation and pandas package in order to keep the result in a table and export to csv or xlsx file. 
