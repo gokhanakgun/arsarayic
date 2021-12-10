@@ -10,6 +10,6 @@ Result Pages of the Queries:
 ![Result 1](/images/result1.png)
 ![Result 2](/images/result2.png)
 
-The Result File for Beyoglu District:
+The Result File for Beyoglu District in csv format:
 
 ![Result File](/images/result_file.png)
